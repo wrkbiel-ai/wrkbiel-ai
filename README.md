@@ -2,7 +2,8 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Gabriel Morais, tenho 18 anos e sou natural do Parauapebas-Pará. Atualmente, estou cursando Engenharia de Software na UEPA.
+Me chamo Gabriel Morais, tenho 19
+anos e sou natural do Parauapebas-Pará. Atualmente, estou cursando Engenharia de Software na UEPA.
 <p align="left">
     <a href="https://github.com/wrkbiel-ai?tab=repositories&sort=stargazers">
         <img 
